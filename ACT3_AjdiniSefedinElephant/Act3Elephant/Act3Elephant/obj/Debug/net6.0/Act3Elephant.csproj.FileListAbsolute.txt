@@ -1,0 +1,4 @@
+C:\ACT3_AjdiniSefedinElephant\Act3Elephant\Act3Elephant\obj\Debug\net6.0\Act3Elephant.GeneratedMSBuildEditorConfig.editorconfig
+C:\ACT3_AjdiniSefedinElephant\Act3Elephant\Act3Elephant\obj\Debug\net6.0\Act3Elephant.AssemblyInfoInputs.cache
+C:\ACT3_AjdiniSefedinElephant\Act3Elephant\Act3Elephant\obj\Debug\net6.0\Act3Elephant.AssemblyInfo.cs
+C:\ACT3_AjdiniSefedinElephant\Act3Elephant\Act3Elephant\obj\Debug\net6.0\Act3Elephant.csproj.CoreCompileInputs.cache
